@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1006134739343-nu8gjs273j56k2p5or8gukr78fpo43g3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1006134739343-nu8gjs273j56k2p5or8gukr78fpo43g3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD78zLtZVuEnswguZ-Ob5yJdiFt2n04C48</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1006134739343</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ortak</string>
+	<key>PROJECT_ID</key>
+	<string>ortak-84fee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ortak-84fee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1006134739343:ios:82983725676ac9a6</string>
+	<key>DATABASE_URL</key>
+	<string>https://ortak-84fee.firebaseio.com</string>
+</dict>
+</plist>
